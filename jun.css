@@ -1,0 +1,9 @@
+.wrapper{
+    display: flex;
+    justify-content: center;
+
+}
+.container_my{
+
+    width: 800px;
+}
